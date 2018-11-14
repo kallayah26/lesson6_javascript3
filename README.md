@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November,13 2018
 
 ### Student Name:  
-(First and Last Name)
+Kallayah Henderson 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I used learned how to use the DOM and edited various functions to add images to a image carousel on a web page.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kallayah26.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the cloneNode correctly so that I do not have to re-type the same information.
+2. That the insertBefore attribute can be used to alter features on webpage after they are set up.
+3. How to add add and remove an Eventlistener and that this attribute allows you to make a button dynamic for an end user. 
 
