@@ -10,7 +10,7 @@ November,13 2018
 Kallayah Henderson 
 
 ### Project Description:
-In this assignment I used learned how to use the DOM and edited various functions to add images to a image carousel on a web page.
+In this assignment I learned how to use the DOM and edited various functions to add images to an image carousel on a web page.
 
 ### View Project:
 https://kallayah26.github.io/lesson6_javascript3/
